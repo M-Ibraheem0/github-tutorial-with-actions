@@ -1,3 +1,2 @@
 console.log('config.js');
-console.log('version3');
-console.log("Also checking if previous has this")
+console.log('version1 updated to show branching off effect');
